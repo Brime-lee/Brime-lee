@@ -30,7 +30,6 @@ exciting projects in the future 🤙.
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" alt="Firebase" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50" alt="Github" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/chakra-ui/chakra-ui-original.svg" width="50" height="50" alt="Chakra UI Logo" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="Tailwind" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="50" height="50" alt="Solidity" />
 
